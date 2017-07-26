@@ -1,13 +1,15 @@
 # Comparison of The Best Electronic Lab Notebook (ELN)
-There are tons of electronic lab notebook out there, but only few of them are actually usable. It usually took months for a scientist to decide which ELN is the right software to go. Here, I tested all available cloud-based ELNs and summarized their features. Hopefully, it is useful for you to find the right ELN.
+There are tons of electronic lab notebook out there, but only few of them are actually usable. It usually took months for a scientist to decide which ELN is the right software to go. Here, We tested all available cloud-based ELNs and summarized their features. Hopefully, it is useful for you to find the right ELN.
 
-All data was collected based on the date of 2017-07-26, version v0.1. All rights reserved @Labii Inc.
+All data was collected based on the date of 2017-07-26, version v0.1. We will update the information annually. Please suggest a change by creating an issue. All rights reserved @Labii Inc.
 
 ## List of ELNs
 
+We collected the list of ELN from google, linkedin and [wikipedia](https://en.wikipedia.org/wiki/List_of_ELN_software_packages). This is a list of ELN that been most well-known and most commonly used.
+
 | Name                                      | Website                                                                              | Address                | Company Size | Year Found | 
 |-------------------------------------------|--------------------------------------------------------------------------------------|------------------------|--------------|------------| 
-| __Labii ELN & LIMS__                          | https://www.labii.com                                                                | San Francisco, CA      | 9            | 2014       | 
+| __Labii ELN & LIMS__                          | [https://www.labii.com](https://www.labii.com/?utm_source=GitHub&utm_medium=Content&utm_campaign=Blog)                                                                | San Francisco, CA      | 9            | 2014       | 
 | LabArchives Electronic Lab Notebook (ELN) | http://www.labarchives.com/                                                          | Carlsbad, CA           | 11-50        | 2009       | 
 | Benchling                                 | https://benchling.com/                                                               | San Francisco, CA      | 31           | 2012       | 
 | LabCollector AgileBio                     | http://labcollector.com/labcollector-lims/add-ons/                                   | San Diego, CA          | 35           | 2010       | 
@@ -33,6 +35,8 @@ All data was collected based on the date of 2017-07-26, version v0.1. All rights
 | Studylog                                  | http://www.studylog.com/products/studylog-web/                                       |                        |              |            | 
 
 ## Feature Comparison
+
+What makes a ELN? There are no specific answers. Here, we do not consider a software like google docs, microsoft word, evernote or microsoft onenote as electronic lab notebook. 
 
 | Features              | Labii   | LabArchives | Benchling | LabCollector | SciNote | Labfolder | RSpace  | CERF    | Hivebench | LabGuru | DOCOLLAB | Element | IDBS    | 
 |-----------------------|---------|-------------|-----------|--------------|---------|-----------|---------|---------|-----------|---------|----------|---------|---------| 
