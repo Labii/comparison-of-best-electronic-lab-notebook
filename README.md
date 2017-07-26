@@ -36,29 +36,44 @@ We collected the list of ELN from google, linkedin and [wikipedia](https://en.wi
 
 ## Feature Comparison
 
-What makes a ELN? There are no specific answers. Here, we do not consider a software like google docs, microsoft word, evernote or microsoft onenote as electronic lab notebook. 
+What makes a ELN? There are no specific answers. An ELN need to keep the purpose of documenting research data, and keeping the fact of research as accurate as possible. We selected a list of features that are required in the process of experimentation. See the details of each features bellow.
+
+Here, we do not consider a software like google docs, microsoft word, evernote or microsoft onenote as electronic lab notebook. Because the results can be easily deleted.
 
 | Features              | Labii   | LabArchives | Benchling | LabCollector | SciNote | Labfolder | RSpace  | CERF    | Hivebench | LabGuru | DOCOLLAB | Element | IDBS    | 
 |-----------------------|---------|-------------|-----------|--------------|---------|-----------|---------|---------|-----------|---------|----------|---------|---------| 
 | Projects              | Yes     | Yes         | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Kind of | Yes     | 
 | Protocols             | Yes     | Kind of     | Kind of   | Kind of      | Yes     | Kind of   | Kind of | Kind of | Kind of   | Yes     | Kind of  | Kind of | No      | 
+| Referencing Protocols | Yes     | No          | Kind of   | Kind of      |         | No        | No      | No      | Kind of   | Yes     | No       | Not yet |         | 
 | Experiments           | Yes     | Kind of     | Kind of   | Yes          | Yes     | Kind of   | Kind of | Kind of | Yes       | Yes     | Kind of  | Kind of | Yes     | 
 | Files                 | Yes     | No          | Kind of   | Kind of      | No      | Kind of   | Yes     | Yes     | Kind of   | Kind of | Kind of  | Kind of | Kind of | 
-| Upload files          | Yes     | Yes         | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Yes     | Yes     | 
 | Inventory             | Yes     | No          | Yes       | Yes          | No      | No        | No      | No      | Yes       | Yes     | No       | No      |         | 
-| Purchasing            | No      | No          | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
-| ELN + LIMS            | Yes     | No          | No        | Yes          | No      | No        | No      | No      | Kind of   | Yes     | No       | No      |         | 
-| Searching             | Yes     | Yes         | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Yes     | Yes     | 
+| Purchase            | No      | No          | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
+| LIMS            | Yes     | No          | No        | Yes          | No      | No        | No      | No      | Kind of   | Yes     | No       | No      |         | 
+| Search             | Yes     | Yes         | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Yes     | Yes     | 
 | Template              | Yes     | Yes         | Yes       | Yes          | No      | Yes       | Yes     | Yes     | Kind of   | Yes     | No       | No      | Yes     | 
-| Referencing Protocols | Yes     | No          | Kind of   | Kind of      |         | No        | No      | No      | Kind of   | Yes     | No       | Not yet |         | 
-| Barcode and Labeling  | Yes     | No          | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
+| Barcode and Labels  | Yes     | No          | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
 | Location              | Yes     |             |           | Yes          |         |           | No      | No      | Kind of   | Yes     | No       | No      |         | 
 | Analysis              | Kind of | No          | No        | Yes          | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
 | Comment               | Yes     | Yes         | No        | No           | Yes     | Yes       | No      | No      | No        | Yes     | No       |         | Yes     | 
 | References            | Yes     | Yes         | No        | No           | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
-| Unique ID             | Yes     | No          | No        | Yes          | No      | No        | Yes     | Yes     | No        | No      | No       | No      | No      | 
-| Mobile                | Yes     | No          | No        | No           | Kind of | No        | Yes     | No      | Yes       | No      | No       | No      | No      | 
 | Todo, Calendar        | No      | No          | No        | Yes          | No      | Yes       | No      | No      | Yes       | Yes     |          |         |         | 
+| Mobile                | Yes     | No          | No        | No           | Kind of | No        | Yes     | No      | Yes       | No      | No       | No      | No      | 
+
+* Projects, manage experiment notes in many different projects
+* Protocols, manage protocols and can be cited easily in the ELN
+* Experiments, document the note for each experiments
+* Files, manage exteranl files that been used in the experiments
+* Inventory, manage the reagents, tubes, equipments et.al
+* Purchase, online purchase of the inventory
+* LIMS, intergrate LIMS with ELN
+* Search, search documented records
+* Template, able to create a experiment note quickly from pre-defined template
+* Barcode and Label, able to generate barcode for identification
+* Location, storage place
+* Analysis, able to perform the data analysis
+* Comment, able to write comments
+* References, able to insert citations
 
 ## Comparision of Security and Cimpliant
 
@@ -80,7 +95,7 @@ What makes a ELN? There are no specific answers. Here, we do not consider a soft
 | Export/Import                  | Yes                          | Yes         | Yes                                                 | Yes          | No       | Yes                          | Yes      | Yes      | Yes                          |          | No       | Kind of  | Yes      | 
 | Backup                         | Yes                          | No          | Yes                                                 | Yes          | No       | Yes                          | Kind of  | Kind of  |                              | Yes      | No       |          |          | 
 | Feeds                          | Yes                          | Yes         | No                                                  | No           | Yes      | No                           | Yes      | Yes      | Yes                          | Yes      |          |          | Yes      | 
-
+| Unique ID             | Yes     | No          | No        | Yes          | No      | No        | Yes     | Yes     | No        | No      | No       | No      | No      | 
 
 ## Comparison of the Price
 | ELNs         | Cost/Seat/Year                                                 | Free storage      | Storage Price       | 
