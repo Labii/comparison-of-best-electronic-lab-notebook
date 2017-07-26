@@ -34,7 +34,7 @@ We collected the list of ELN from google, linkedin and [wikipedia](https://en.wi
 | genohm SLims                              | http://www.genohm.com/slims/                                                         | Switzerland            |              |            | 
 | Studylog                                  | http://www.studylog.com/products/studylog-web/                                       |                        |              |            | 
 
-## Feature Comparison
+## Comparison of Features
 
 What makes a ELN? There are no specific answers. An ELN need to keep the purpose of documenting research data, and keeping the fact of research as accurate as possible. We selected a list of features that are required in the process of experimentation. See the details of each features bellow.
 
@@ -75,7 +75,9 @@ Here, we do not consider a software like google docs, microsoft word, evernote o
 * Comment, able to write comments
 * References, able to insert citations
 
-## Comparision of Security and Cimpliant
+## Comparision of Security and Compliant
+
+For industrial use, the security and compliant are the top features to consider when using electronic lab notebook. 
 
 | Features                       | Labii                        | LabArchives | Benchling                                           | LabCollector | SciNote  | Labfolder                    | RSpace   | CERF     | Hivebench                    | LabGuru  | DOCOLLAB | Element  | IDBS     | 
 |--------------------------------|------------------------------|-------------|-----------------------------------------------------|--------------|----------|------------------------------|----------|----------|------------------------------|----------|----------|----------|----------| 
