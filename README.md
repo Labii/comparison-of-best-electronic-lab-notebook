@@ -64,7 +64,7 @@ All data was collected based on the date of 2017-07-26, version v0.1. All rights
 | Project Permissions/Roles      | Yes                          | Yes         | Yes                                                 | Yes          | Yes      | Yes                          | Yes      | Yes      | Kind of                      | Kind of  | Yes      |          | Yes      | 
 | How to create user             | Invite                       | Share       | Invite                                              | Register     | Invite   | Invite                       | Register | Register | Invite                       | Register | Invite   |          |          | 
 | Account security               | Password                     | Password    | Password                                            | Password     | Password | Password                     | Password | Password | Password                     | Password | No       | Password | Password | 
-| Data security                  | AWS, backup, encryption, ssl | -           | https://benchling.com/enterprise/resources/security | IP, LDAP     | AWS      | AWS, backup, encryption, ssl |          |          | AWS, backup, encryption, ssl |          |          |          | SSL,     | 
+| Data security                  | AWS, backup, encryption, ssl | -           | [See here](https://benchling.com/enterprise/resources/security) | IP, LDAP     | AWS      | AWS, backup, encryption, ssl |          |          | AWS, backup, encryption, ssl |          |          |          | SSL,     | 
 | Data retension                 | 5 Years                      | Read only   | No                                                  | No           | No       | 3 Years                      | No       | No       | No                           | No       | No       | No       | No       | 
 | 21 CFR Compliant               | Yes                          | Yes         | Yes                                                 | Yes          | Yes      |                              | Yes      | Yes      | Yes                          | FDA      |          |          | Yes      | 
 | Avoid deletion                 | Yes                          |             | No                                                  | Yes          | No       | Yes                          | Yes      | Yes      | No                           | Yes      | No       |          | Restrict | 
@@ -81,7 +81,7 @@ All data was collected based on the date of 2017-07-26, version v0.1. All rights
 ## Comparison of the Price
 | ELNs         | Cost/Seat/Year                                                 | Free storage      | Storage Price       | 
 |--------------|----------------------------------------------------------------|-------------------|---------------------| 
-| Labii        | Academic and enterprise, contact sales@labii.com for the price | 100G              | $10/100G            | 
+| Labii        | Contact sales@labii.com for the price | 100G              | $10/100G            | 
 | LabArchives  | $365                                                           | 100G              | $0.99/G             | 
 | Benchling    | $2,400                                                         | 10G               |                     | 
 | LabCollector | $460                                                           |                   | 0                   | 
