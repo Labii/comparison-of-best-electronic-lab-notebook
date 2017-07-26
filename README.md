@@ -1,7 +1,7 @@
 # Comparison of The Best Electronic Lab Notebook (ELN)
 There are tons of electronic lab notebook out there, but only few of them are actually usable. It usually took months for a scientist to decide which ELN is the right software to go. Here, I tested all available cloud-based ELNs and summarized their features. Hopefully, it is useful for you to find the right ELN.
 
-All data was collected based on the date of 2017-07-26, version v0.1.
+All data was collected based on the date of 2017-07-26, version v0.1. All rights reserved @Labii Inc.
 
 ## List of ELNs
 
@@ -78,3 +78,20 @@ All data was collected based on the date of 2017-07-26, version v0.1.
 | Customrize                     | Kind of                                      | -                                                             | No                                                            | Kind of                                                                        | Yes          | No                                                |                                   |                                   | Yes, local only                                     | Yes                      |             |                                                                           | Yes                             | 
 | Biological Functions           |                                              |                                                               |                                                               |                                                                                |              |                                                   |                                   |                                   | Step, Regent, Timer, Wells, Protocols Text          |                          |             |                                                                           |                                 | 
 | Other functions                |                                              | Tag, DOI                                                      | CRISPE                                                        |                                                                                |              |                                                   | Email, Message                    | Email, Message                    |                                                     | Zoho Excel               |             | Released March 31, replace elements, signal notebook. Molecular structure | Chemistry, inventory, Work flow | 
+
+## Comparison of the Price
+| ELNs         | Cost/Seat/Year                                                 | Free storage      | Storage Price       | 
+|--------------|----------------------------------------------------------------|-------------------|---------------------| 
+| Labii        | Academic and enterprise, contact sales@labii.com for the price | 100G              | $10/100G            | 
+| LabArchives  | $365                                                           | 100G              | $0.99/G             | 
+| Benchling    | $2,400                                                         | 10G               |                     | 
+| LabCollector | $460                                                           |                   | 0                   | 
+| SciNote      | $250                                                           | 1G/100G, 10G Free | $1000/100G, $9/100G | 
+| Labfolder    | $468                                                           | 3G, 300G          |                     | 
+| RSpace       | $200 + $1500 install fee                                       |                   |                     | 
+| CERF         | $200 + one time $500/user/licence + $2000 to install           |                   |                     | 
+| Hivebench    | $1000/month, $20,000 + licensing fee                           |                   | 10G                 | 
+| LabGuru      | $900                                                           | 40G/user          |                     | 
+| DOCOLLAB     | $60                                                            |                   |                     | 
+| Element      |                                                                |                   |                     | 
+| IDBS         |                                                                | 1G                |                     | 
