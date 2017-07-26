@@ -115,3 +115,8 @@ For industrial use, the security and compliant are the top features to consider 
 | DOCOLLAB     | $60                                                            |                   |                     | 
 | Element      |                                                                |                   |                     | 
 | IDBS         |                                                                | 1G                |                     | 
+
+
+## To do:
+* Comparision on how to document results
+* Screenshots
