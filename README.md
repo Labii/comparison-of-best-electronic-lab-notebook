@@ -106,7 +106,7 @@ For industrial use, the security and compliance are the top features to consider
 |--------------|----------------------------------------------------------------|-------------------|---------------------| 
 | Labii        | Contact sales@labii.com for the price | 100G              | $10/100G            | 
 | LabArchives  | $365                                                           | 100G              | $0.99/G             | 
-| eLabFTW      | Completely free                                                | N/A               | N/A                 | 
+| eLabFTW      | Completely free (AGPL licence)                                 | N/A               | N/A                 |
 | Benchling    | $2,400                                                         | 10G               |                     | 
 | LabCollector | $460                                                           |                   | 0                   | 
 | SciNote      | $250                                                           | 1G/100G, 10G Free | $1000/100G, $9/100G | 
