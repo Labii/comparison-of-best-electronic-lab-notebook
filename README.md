@@ -107,12 +107,13 @@ For industrial use, the security and compliance are the top features to consider
 | Feeds                          | Yes                          | Yes         | No                                                  | No           | Yes      | No                           | Yes      | Yes      | Yes                          | Yes      |          |          | Yes      | 
 | Unique ID             | Yes     | No          | No        | Yes          | No      | No        | Yes     | Yes     | No        | No      | No       | No      | No      | 
 
-## Comparison of the Price
+## Comparison of the Subscription Price
+Labii ELN & LIMS provides Pay-Per-Use Option that does not cover in this table. See [here](https://www.labii.com/#price) for more details.
 | ELNs         | Cost/Seat/Year                                                 | Free storage      | Storage Price       | 
 |--------------|----------------------------------------------------------------|-------------------|---------------------| 
-| Labii        | Contact sales@labii.com for the price | 100G              | $10/100G            | 
+| Labii        | $960 | 100G              | $10/100G            | 
 | LabArchives  | $365                                                           | 100G              | $0.99/G             | 
-| eLabFTW      | Completely free (AGPL licence)                                 | N/A               | N/A                 |
+| eLabFTW      | Free (AGPL licence)                                 | N/A               | N/A                 |
 | Benchling    | $2,400                                                         | 10G               |                     | 
 | LabCollector | $460                                                           |                   | 0                   | 
 | SciNote      | $250                                                           | 1G/100G, 10G Free | $1000/100G, $9/100G | 
@@ -124,7 +125,6 @@ For industrial use, the security and compliance are the top features to consider
 | DOCOLLAB     | $60                                                            |                   |                     | 
 | Element      |                                                                |                   |                     | 
 | IDBS         |                                                                | 1G                |                     | 
-
 
 ## To do:
 * Comparision on how to document results
