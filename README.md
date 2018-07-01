@@ -50,15 +50,18 @@ Here, we do not consider a software like google docs, microsoft word, evernote o
 | Inventory             | Yes     | No          | Yes       | Yes       | Yes          | No      | No        | No      | No      | Yes       | Yes     | No       | No      |         | 
 | Purchase              | No      | No          | No        | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
 | LIMS                  | Yes     | No          | Yes       | Yes       | Yes          | No      | No        | No      | No      | Kind of   | Yes     | No       | No      |         | 
+| Location              | Yes     |             |           |           | Yes          |         |           | No      | No      | Kind of   | Yes     | No       | No      |         | 
 | Search                | Yes     | Yes         | Yes       | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Yes     | Yes     | 
 | Template              | Yes     | Yes         | Yes       | Yes       | Yes          | No      | Yes       | Yes     | Yes     | Kind of   | Yes     | No       | No      | Yes     | 
 | Barcode and Labels    | Yes     | No          | No        | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
-| Location              | Yes     |             |           |           | Yes          |         |           | No      | No      | Kind of   | Yes     | No       | No      |         | 
 | Analysis              | Kind of | No          | No        | No        | Yes          | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
 | Comment               | Yes     | Yes         | Yes       | No        | No           | Yes     | Yes       | No      | No      | No        | Yes     | No       |         | Yes     | 
 | References            | Yes     | Yes         | No        | No        | No           | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
 | Todo, Calendar        | No      | No          | Yes       | No        | Yes          | No      | Yes       | No      | No      | Yes       | Yes     |          |         |         | 
 | Mobile                | Yes     | No          | Yes       | No        | No           | Kind of | No        | Yes     | No      | Yes       | No      | No       | No      | No      | 
+| Ability to Store other type of data                | Yes     | No          | No       | No        | No           | No | No        | No     | No      | No       | No      | No       | No      | No      | 
+| Custom columns                | Yes     | No          | No       | No        | No           | No | No        | No     | No      | No       | No      | No       | No      | No      | 
+| API                | Yes     |           |        |         |            |  |         |      |       |        |       |        |       |       | 
 
 * Projects: manage experiment notes in many different projects
 * Protocols: manage protocols and can be cited easily in the ELN
@@ -76,6 +79,9 @@ Here, we do not consider a software like google docs, microsoft word, evernote o
 * References: able to insert citations
 * Todo, Calendar: has a todolist and a calendar
 * Mobile: works from a mobile phone
+* Ability to Store other type of data: Able to store other type of data like plasmids, cell lines, et.al
+* Custom columns: Define what columns for each type of data
+* API: API support.
 
 ## Comparison of Security and Compliance
 
