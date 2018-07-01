@@ -22,7 +22,7 @@ We collected the list of ELN from google, linkedin and [wikipedia](https://en.wi
 | IDBS E‑WorkBook                           | https://www.idbs.com/en/platform-products/e-workbook/                                | UK, Boston             | 300          | 2006       | 
 | BIOVIA ELN                                | http://accelrys.com/products/unified-lab-management/biovia-electronic-lab-notebooks/ | San Diego, CA          | 500-1000     | 2001       | 
 | DOCOLLAB                                  | https://www.docollab.com/                                                            |                        | 1-10         |            | 
-| eLabFTW                                   | https://www.elabftw.net/                                                             |                        |              | 2013       | 
+| eLabFTW                                   | https://www.elabftw.net/                                                             | Paris, France          |              | 2013       | 
 | PerkinElmer - Elements                    | http://www.cambridgesoft.com/E-Notebook2.aspx                                        | Waltham, Massachusetts | 5000-10000   | 1937       | 
 | LabVantage ELN                            | http://www.labvantage.com/lims/elnles/                                               |                        |              | 2010       | 
 | Core ELN                                  | http://www.coreinformatics.com/products/core-eln/                                    |                        |              |            | 
@@ -40,44 +40,46 @@ What makes a ELN? There are no specific answers. An ELN need to keep the purpose
 
 Here, we do not consider a software like google docs, microsoft word, evernote or microsoft onenote as electronic lab notebook. Because the results can be easily deleted.
 
-| Features              | Labii   | LabArchives | Benchling | LabCollector | SciNote | Labfolder | RSpace  | CERF    | Hivebench | LabGuru | DOCOLLAB | Element | IDBS    | 
-|-----------------------|---------|-------------|-----------|--------------|---------|-----------|---------|---------|-----------|---------|----------|---------|---------| 
-| Projects              | Yes     | Yes         | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Kind of | Yes     | 
-| Protocols             | Yes     | Kind of     | Kind of   | Kind of      | Yes     | Kind of   | Kind of | Kind of | Kind of   | Yes     | Kind of  | Kind of | No      | 
-| Referencing Protocols | Yes     | No          | Kind of   | Kind of      |         | No        | No      | No      | Kind of   | Yes     | No       | Not yet |         | 
-| Experiments           | Yes     | Kind of     | Kind of   | Yes          | Yes     | Kind of   | Kind of | Kind of | Yes       | Yes     | Kind of  | Kind of | Yes     | 
-| Files                 | Yes     | No          | Kind of   | Kind of      | No      | Kind of   | Yes     | Yes     | Kind of   | Kind of | Kind of  | Kind of | Kind of | 
-| Inventory             | Yes     | No          | Yes       | Yes          | No      | No        | No      | No      | Yes       | Yes     | No       | No      |         | 
-| Purchase            | No      | No          | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
-| LIMS            | Yes     | No          | No        | Yes          | No      | No        | No      | No      | Kind of   | Yes     | No       | No      |         | 
-| Search             | Yes     | Yes         | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Yes     | Yes     | 
-| Template              | Yes     | Yes         | Yes       | Yes          | No      | Yes       | Yes     | Yes     | Kind of   | Yes     | No       | No      | Yes     | 
-| Barcode and Labels  | Yes     | No          | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
-| Location              | Yes     |             |           | Yes          |         |           | No      | No      | Kind of   | Yes     | No       | No      |         | 
-| Analysis              | Kind of | No          | No        | Yes          | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
-| Comment               | Yes     | Yes         | No        | No           | Yes     | Yes       | No      | No      | No        | Yes     | No       |         | Yes     | 
-| References            | Yes     | Yes         | No        | No           | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
-| Todo, Calendar        | No      | No          | No        | Yes          | No      | Yes       | No      | No      | Yes       | Yes     |          |         |         | 
-| Mobile                | Yes     | No          | No        | No           | Kind of | No        | Yes     | No      | Yes       | No      | No       | No      | No      | 
+| Features              | Labii   | LabArchives | eLabFTW   | Benchling | LabCollector | SciNote | Labfolder | RSpace  | CERF    | Hivebench | LabGuru | DOCOLLAB | Element | IDBS    | 
+|-----------------------|---------|-------------|-----------|-----------|--------------|---------|-----------|---------|---------|-----------|---------|----------|---------|---------| 
+| Projects              | Yes     | Yes         | Yes       | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Kind of | Yes     | 
+| Protocols             | Yes     | Kind of     | Yes       | Kind of   | Kind of      | Yes     | Kind of   | Kind of | Kind of | Kind of   | Yes     | Kind of  | Kind of | No      | 
+| Referencing Protocols | Yes     | No          | Yes       | Kind of   | Kind of      |         | No        | No      | No      | Kind of   | Yes     | No       | Not yet |         | 
+| Experiments           | Yes     | Kind of     | Yes       | Kind of   | Yes          | Yes     | Kind of   | Kind of | Kind of | Yes       | Yes     | Kind of  | Kind of | Yes     | 
+| Files                 | Yes     | No          | Yes       | Kind of   | Kind of      | No      | Kind of   | Yes     | Yes     | Kind of   | Kind of | Kind of  | Kind of | Kind of | 
+| Inventory             | Yes     | No          | Yes       | Yes       | Yes          | No      | No        | No      | No      | Yes       | Yes     | No       | No      |         | 
+| Purchase              | No      | No          | No        | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
+| LIMS                  | Yes     | No          | Yes       | Yes       | Yes          | No      | No        | No      | No      | Kind of   | Yes     | No       | No      |         | 
+| Search                | Yes     | Yes         | Yes       | Yes       | Yes          | Yes     | Yes       | Yes     | Yes     | Yes       | Yes     | Yes      | Yes     | Yes     | 
+| Template              | Yes     | Yes         | Yes       | Yes       | Yes          | No      | Yes       | Yes     | Yes     | Kind of   | Yes     | No       | No      | Yes     | 
+| Barcode and Labels    | Yes     | No          | No        | No        | Yes          | No      | No        | No      | No      | No        | Yes     | No       | No      |         | 
+| Location              | Yes     |             |           |           | Yes          |         |           | No      | No      | Kind of   | Yes     | No       | No      |         | 
+| Analysis              | Kind of | No          | No        | No        | Yes          | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
+| Comment               | Yes     | Yes         | Yes       | No        | No           | Yes     | Yes       | No      | No      | No        | Yes     | No       |         | Yes     | 
+| References            | Yes     | Yes         | No        | No        | No           | No      | No        | No      | No      | No        | No      | No       | No      | No      | 
+| Todo, Calendar        | No      | No          | Yes       | No        | Yes          | No      | Yes       | No      | No      | Yes       | Yes     |          |         |         | 
+| Mobile                | Yes     | No          | Yes       | No        | No           | Kind of | No        | Yes     | No      | Yes       | No      | No       | No      | No      | 
 
-* Projects, manage experiment notes in many different projects
-* Protocols, manage protocols and can be cited easily in the ELN
-* Experiments, document the note for each experiments
-* Files, manage exteranl files that been used in the experiments
-* Inventory, manage the reagents, tubes, equipments et.al
-* Purchase, online purchase of the inventory
-* LIMS, intergrate LIMS with ELN
-* Search, search documented records
-* Template, able to create a experiment note quickly from pre-defined template
-* Barcode and Label, able to generate barcode for identification
-* Location, storage place
-* Analysis, able to perform the data analysis
-* Comment, able to write comments
-* References, able to insert citations
+* Projects: manage experiment notes in many different projects
+* Protocols: manage protocols and can be cited easily in the ELN
+* Experiments: document the note for each experiments
+* Files: manage exteranl files that been used in the experiments
+* Inventory: manage the reagents, tubes, equipments etc
+* Purchase: online purchase of the inventory
+* LIMS: intergrate LIMS with ELN
+* Search: search documented records
+* Template: able to create a experiment note quickly from pre-defined template
+* Barcode and Label: able to generate barcode for identification
+* Location: storage place
+* Analysis: able to perform the data analysis
+* Comment: able to write comments
+* References: able to insert citations
+* Todo, Calendar: has a todolist and a calendar
+* Mobile: works from a mobile phone
 
-## Comparision of Security and Compliant
+## Comparison of Security and Compliance
 
-For industrial use, the security and compliant are the top features to consider when using electronic lab notebook. 
+For industrial use, the security and compliance are the top features to consider when using electronic lab notebook. 
 
 | Features                       | Labii                        | LabArchives | Benchling                                           | LabCollector | SciNote  | Labfolder                    | RSpace   | CERF     | Hivebench                    | LabGuru  | DOCOLLAB | Element  | IDBS     | 
 |--------------------------------|------------------------------|-------------|-----------------------------------------------------|--------------|----------|------------------------------|----------|----------|------------------------------|----------|----------|----------|----------| 
@@ -104,6 +106,7 @@ For industrial use, the security and compliant are the top features to consider 
 |--------------|----------------------------------------------------------------|-------------------|---------------------| 
 | Labii        | Contact sales@labii.com for the price | 100G              | $10/100G            | 
 | LabArchives  | $365                                                           | 100G              | $0.99/G             | 
+| eLabFTW      | Completely free (AGPL licence)                                 | N/A               | N/A                 |
 | Benchling    | $2,400                                                         | 10G               |                     | 
 | LabCollector | $460                                                           |                   | 0                   | 
 | SciNote      | $250                                                           | 1G/100G, 10G Free | $1000/100G, $9/100G | 
