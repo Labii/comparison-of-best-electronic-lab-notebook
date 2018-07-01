@@ -109,6 +109,7 @@ For industrial use, the security and compliance are the top features to consider
 
 ## Comparison of the Subscription Price
 Labii ELN & LIMS provides Pay-Per-Use Option that does not cover in this table. See [here](https://www.labii.com/#price) for more details.
+
 | ELNs         | Cost/Seat/Year                                                 | Free storage      | Storage Price       | 
 |--------------|----------------------------------------------------------------|-------------------|---------------------| 
 | Labii        | $960 | 100G              | $10/100G            | 
