@@ -3,6 +3,8 @@ There are tons of electronic lab notebook out there, but only few of them are ac
 
 All data was collected based on the date of 2017-07-26, version v0.1. We will update the information annually. Please suggest a change by creating an issue. All rights reserved @Labii Inc.
 
+This page is available at [https://labii.github.io/comparison-of-best-electronic-lab-notebook/](https://labii.github.io/comparison-of-best-electronic-lab-notebook/)
+
 ## List of ELNs
 
 We collected the list of ELN from google, linkedin and [wikipedia](https://en.wikipedia.org/wiki/List_of_ELN_software_packages). This is a list of ELN that been most well-known and most commonly used.
